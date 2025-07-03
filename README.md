@@ -1,2 +1,1 @@
-# rsschool-cv
-My first task at RSSchool - CV01
+https://White-812.github.io/rsschool-cv/cv
