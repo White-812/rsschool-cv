@@ -7,7 +7,7 @@
 ---
 
 ### About me
-*My aim is to get a high level education in IT. I'm interested in coding as a new language for communication, and it is useful worldwide. I believe that there is no endm there is onlt way of self-improvement*
+*My aim is to get a high grade in IT. I'm interested in coding as a new language for communication, and it is imprssive that it is useful worldwide.*
 ---
 
 ### Skills in IT
@@ -30,11 +30,9 @@ function factorial (n:integer): longint;
 *poor*
 
 ### Education IT
-* 2025 RS School : JS/FE Preschool - *in progress*
-* 2025 RS School : Git / GitHub - *in progress*
+* 2025 : RS School : JS/FE Preschool - *in progress*
+* 2025 : RS School : Git / GitHub - *in progress*
 
 ### Language
 * **English** - *intermediate*
 * **French** - *intermediate*
-* **Italian** - *beginner*
-* Madyar *beginner*
