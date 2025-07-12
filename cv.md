@@ -1,4 +1,6 @@
-Name: *Sergey Malyshev*
+# *Sergey Malyshev*
+----
+
 TG, WA +7(904) 642 8535
 Engineer. organised Confident, 
 beginner at JS/FE
